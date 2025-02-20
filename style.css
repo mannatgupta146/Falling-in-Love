@@ -1,8 +1,8 @@
 :root {
     --text-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
     --bg-gradient-1: #ff8da1;
-    --bg-gradient-2: #ffd6e3;
-    --bg-gradient-3: #fff0f5;
+    --bg-gradient-2: #ffd6e1;
+    --bg-gradient-3: #ffc0cb;
 }
 
 * {
